@@ -17,9 +17,9 @@ export default function App() {
         {/* Top Section */}
         <div 
           id="card-header"
-          className="h-[330px] bg-cover bg-center flex items-end justify-start p-5 relative"
+          className="h-[330px] bg-cover bg-center flex items-end justify-start p-5 relative bg-slate-800"
           style={{ 
-            backgroundImage: `linear-gradient(to top, rgba(0,0,0,0.6), transparent), url('https://pic.pimg.tw/sidney6811/1529508979-1559019819_n.jpg')` 
+            backgroundImage: `linear-gradient(to top, rgba(0,0,0,0.6), transparent), url('https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80')` 
           }}
         >
           <div className="flex items-baseline gap-2">
